@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&display=swap');
+* {
+        padding: 0;
+        box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(80, 171, 212);
+}
+.tittle{
+
+    text-align: center;
+    font-size: 25px;
+    font-family:'EB Garamond', serif;
+    color: rgb(70, 90, 201);
+    
+}
+
+.informações{
+    
+   text-align: center;
+   font-family: 'Comfortaa', cursive;
+}
